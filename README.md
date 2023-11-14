@@ -1,6 +1,6 @@
 i'll be student on Sıtkı Koçman University for learn how to design a digital game and i'll work on this site
 my name is alp and im 19 years old(9/27/2023)
-my skills: video editing 
+
 
 
 - 👋 Hi, I’m @tera-ui my name is alp
