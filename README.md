@@ -1,13 +1,13 @@
-i'll be student on Sıtkı Koçman University for learn how to design a digital game and i'll work on this site
-my name is alp and im 19 years old(9/27/2023)
+I'll be a student on Sıtkı Koçman University to learn how to design a digital game and I'll work on this site
+my name is alp and I'm 19 years old(9/27/2023)
 
 
 
 - 👋 Hi, I’m @tera-ui my name is alp
--     I’m interested in game delevopment
-- 🌱 I’m currently learning software programing and game delevopment
+-     I’m interested in game development
+- 🌱 I’m currently learning software programming(C#) and game development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : discord"z_tera"
+- 📫 How to reach me : discord: "z_tera"
 - 
 
 <!---
