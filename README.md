@@ -1,5 +1,6 @@
-I'll be a student on Sıtkı Koçman University to learn how to design a digital game and I'll work on this site
-my name is alp and I'm 19 years old(9/27/2023)
+My name is Alp and I am 19 years old(9/27/2023)
+I am a student at Sıtkı Koçman University
+My department is Digital Game Design
 
 
 
